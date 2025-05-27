@@ -55,74 +55,18 @@ Uso de módulos estándar para realizar operaciones matemáticas y generar núme
 Ejercicios prácticos utilizando los módulos math y random para resolver problemas comunes.  
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/16.math_random_ejercicios.ipynb)
 
-### 18. Tuplas, Sets y Diccionarios: Ejercicios  
-Ejercicios para reforzar el manejo de tuplas, conjuntos y diccionarios en Python.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/18.tuplas_sets_diccionatios_ejercicios.ipynb)
-
-### 20. Funciones  
+### 17. Funciones  
 Definición y uso de funciones para estructurar y reutilizar código de manera eficiente.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/20.funciones.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/17.funciones.ipynb)
 
-### 21. Funciones: Ejercicios  
+### 18. Funciones: Ejercicios  
 Práctica en la creación y utilización de funciones para resolver problemas específicos.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/21.funciones_ejercicios.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/18.funciones_ejercicios.ipynb)
 
-### 23. Módulos time y datetime  
-Manejo de fechas y tiempos utilizando los módulos time y datetime de Python.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/23.time_datetime.ipynb)
-
-### 24. Time y Datetime: Ejercicios  
-Ejercicios prácticos para trabajar con fechas y tiempos en Python.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/24.time_datetime_ejercicios.ipynb)
-
-### 26. Programación Orientada a Objetos  
+### 19. Programación Orientada a Objetos  
 Introducción a los conceptos de la programación orientada a objetos en Python.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/26.programación_orientada_objetos.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/19.programación_orientada_objetos.ipynb)
 
-### 27. Funciones Especiales en Python  
-Exploración de funciones especiales y avanzadas que ofrece Python.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/27.funciones_especiales_python.ipynb)
-
-### 28. Funciones Especiales: Ejercicios  
-Ejercicios para practicar y afianzar el uso de funciones especiales en Python.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/28.funciones_especiales_ejercicios.ipynb)
-
-### 30. Lectura y Escritura de Ficheros  
-Aprendizaje de técnicas para leer y escribir archivos en Python.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/30.lectura_escritura_ficheros.ipynb)
-
-### 31. Ficheros: Ejercicios  
-Práctica en la manipulación de archivos mediante ejercicios guiados.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/31.lectura_escritura_ficheros_ejercicios.ipynb)
-
-### 33. Simulador Banco App  
-Diseño de una aplicación sencilla que simula las operaciones básicas de una cuenta bancaria.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/33.simulador_banco_app.ipynb)
-
-### 34. Simulador Banco App Resuelto  
-Versión completa y funcional del simulador bancario, incluyendo validaciones y menús interactivos.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/34.simulador_banco_app_resuelto.ipynb)
-
-### 35. Programación Orientada a Objetos: Ejercicios  
+### 20. Programación Orientada a Objetos: Ejercicios  
 Ejercicios prácticos para afianzar los conceptos de clases, objetos, atributos y métodos.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/35.programación_objetos_ejercicios.ipynb)
-
-### 37. Tamagotchi App  
-Desarrollo de una aplicación que simula el comportamiento de una mascota virtual con estado y acciones.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/37.tamagotchi_app.ipynb)
-
-### 38. Tamagotchi App Resuelto  
-Implementación completa del Tamagotchi virtual con mejoras, control de errores y funciones adicionales.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/38.tamagotchi_app_resuelto.ipynb)
-
-### 39. Ejercicios Extras 01  
-Conjunto adicional de ejercicios que integran temas previos: condiciones, bucles y funciones.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/39.ejercicios_extras_01.ipynb)
-
-### 41. Ejercicios Extras 02  
-Más ejercicios integradores con foco en estructuras de datos y lógica de programación.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/41.ejercicios_extras_02.ipynb)
-
-### 43. Ejercicios Extras 03  
-Tercer bloque de ejercicios adicionales, útiles como repaso final o evaluación práctica.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/43.ejercicios_extras_03.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/20.programación_objetos_ejercicios.ipynb)
